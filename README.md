@@ -150,9 +150,13 @@ Over the past several years, I've worked across DevOps, platform engineering, an
 ### ⌨️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```txt
-Auto-filled daily by .github/workflows/waka-readme.yml (WakaTime)
+Total Time: 0 secs
+
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
