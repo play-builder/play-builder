@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kai (Changsuk Jeon)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=820&lines=Battle-Tested+DevOps+Engineer;Production-Grade+DevOps;GitOps+%26+FinOps+Driven+Operations;Cloud-Native+Ecosystems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=820&lines=Battle-Tested+DevOps+Engineer;Production-Grade+DevOps;GitOps+%26+FinOps+Driven+Operations;Cloud-Native+Ecosystems" alt="Typing SVG" />
 
 </div>
 
