@@ -147,20 +147,6 @@ Over the past several years, I've worked across DevOps, platform engineering, an
 
 ---
 
-### ⌨️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
