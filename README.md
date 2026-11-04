@@ -86,6 +86,7 @@ Over the past several years, I've worked across DevOps, platform engineering, an
 | Project | What it proves | Highlights |
 |---|---|---|
 | [ethereum-validator-infra](https://github.com/play-builder/ethereum-validator-infra) | 운영 가능한 validator DR 설계 | Terraform + Ansible, GitHub OIDC(장기 키 없음), Primary/Standby 리전, failover·failback drill, slashing protection gate |
+| [EKS-infra](https://github.com/play-builder/EKS-infra) | 멀티 계정 AWS 플랫폼 IaC | Network·Dev·Prod 계정 분리, EKS·IAM·RDS 모듈, tflint·trivy·정책 테스트, drift 점검 |
 | [argocd-gitops](https://github.com/play-builder/argocd-gitops) | 멀티 계정 EKS GitOps | ApplicationSet, Dev 자동 / Prod 승인 sync, Argo Rollouts canary + Istio, digest 승격 검증 CI |
 | [linux-to-kubernetes](https://github.com/play-builder/linux-to-kubernetes) | 커널부터 메시까지의 이해 | namespaces · cgroup · overlayfs → kubeadm → Istio ambient zero-trust 실습 |
 | [play-builder-blog](https://github.com/play-builder/play-builder-blog) | 프로덕션급 프런트엔드 운영 | Astro, Notion 연동, 다국어, lint/test/build CI |
